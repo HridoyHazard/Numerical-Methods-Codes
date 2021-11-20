@@ -8,6 +8,7 @@ Root Finding Methods Calculation Is very Complex and Calculation Become Huges So
 
 ### Where To Learn
 [I Learned From This Playlist](https://www.youtube.com/watch?v=hoJw1d-AMjw&list=PLhSp9OSVmeyJdYAHtIbDlkBLG0G1wuosk)
+
 [And This](https://www.youtube.com/watch?v=_3i6oqQoukw&list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z)
 
 ### ScreenShorts
