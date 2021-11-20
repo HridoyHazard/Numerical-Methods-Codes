@@ -18,6 +18,6 @@ Root Finding Methods Calculation Is very Complex and Calculation Become Huges So
     <img src="ss/2.PNG">
     <b> Invalid Input</b><br>
     <img src="ss/3.PNG">
-    <b> HomePage</b><br>
+    <b> Output</b><br>
     <img src="ss/4.PNG">
 </p>
